@@ -1,0 +1,64 @@
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-03T23:24:32.154Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-04T13:14:17.105Z"}
+{"end":{"x":2,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-04T13:48:22.162Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[2,2],[2,3],[2,4],[2,5],[2,6],[2,7]],"timestamp":"2025-05-04T13:48:22.168Z"}
+{"end":{"x":4,"y":5},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-04T13:48:47.430Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[3,1],[3,2],[3,3],[3,4],[3,5],[4,5]],"timestamp":"2025-05-04T13:48:47.433Z"}
+{"end":{"x":2,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-04T13:54:06.161Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[2,2],[2,3]],"timestamp":"2025-05-04T13:54:06.168Z"}
+{"end":{"x":2,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-04T13:54:26.203Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[2,2],[2,3]],"timestamp":"2025-05-04T13:54:26.204Z"}
+{"end":{"x":4,"y":5},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-04T13:54:30.390Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[3,1],[3,2],[3,3],[3,4],[3,5],[4,5]],"timestamp":"2025-05-04T13:54:30.392Z"}
+{"end":{"x":2,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-04T14:01:49.886Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[2,2],[2,3]],"timestamp":"2025-05-04T14:01:49.895Z"}
+{"end":{"x":6,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-04T14:02:07.400Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[6,2],[6,3]],"timestamp":"2025-05-04T14:02:07.405Z"}
+{"end":{"x":6,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-04T14:03:44.875Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[6,2],[6,3]],"timestamp":"2025-05-04T14:03:44.877Z"}
+{"end":{"x":6,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-04T14:03:49.381Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[3,1],[4,1],[5,1],[5,2],[5,3],[5,4],[5,5],[6,5],[6,6],[6,7]],"timestamp":"2025-05-04T14:03:49.385Z"}
+{"end":{"x":2,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-04T14:18:10.845Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[2,2],[2,3],[2,4],[2,5],[2,6],[2,7]],"timestamp":"2025-05-04T14:18:10.854Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-04T19:24:22.299Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-06T16:11:17.442Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-09T12:21:30.870Z"}
+{"end":{"x":6,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":1},"timestamp":"2025-05-09T13:44:21.475Z"}
+{"level":"info","message":"Path found successfully","path":[[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[6,2],[6,3]],"timestamp":"2025-05-09T13:44:21.478Z"}
+{"end":{"x":6,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":1},"timestamp":"2025-05-09T13:44:52.369Z"}
+{"level":"info","message":"Path found successfully","path":[[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[6,2],[6,3],[6,4],[6,5],[6,6],[6,7]],"timestamp":"2025-05-09T13:44:52.374Z"}
+{"end":{"x":6,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":1},"timestamp":"2025-05-09T13:45:15.654Z"}
+{"level":"info","message":"Path found successfully","path":[[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[6,2],[6,3],[6,4],[6,5],[6,6],[6,7]],"timestamp":"2025-05-09T13:45:15.672Z"}
+{"end":{"x":6,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":1},"timestamp":"2025-05-09T13:45:23.042Z"}
+{"level":"info","message":"Path found successfully","path":[[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[6,2],[6,3],[6,4],[6,5],[6,6],[6,7]],"timestamp":"2025-05-09T13:45:23.044Z"}
+{"end":{"x":6,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":1},"timestamp":"2025-05-09T13:52:52.607Z"}
+{"level":"info","message":"Path found successfully","path":[[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[6,2],[6,3]],"timestamp":"2025-05-09T13:52:52.610Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-09T14:06:27.847Z"}
+{"end":{"x":2,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":1},"timestamp":"2025-05-09T14:06:34.886Z"}
+{"level":"info","message":"Path found successfully","path":[[1,1],[2,1],[2,2],[2,3],[2,4],[2,5],[2,6],[2,7]],"timestamp":"2025-05-09T14:06:34.888Z"}
+{"end":{"x":2,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":1},"timestamp":"2025-05-09T14:06:40.175Z"}
+{"level":"info","message":"Path found successfully","path":[[1,1],[2,1],[2,2],[2,3],[2,4],[2,5],[2,6],[2,7]],"timestamp":"2025-05-09T14:06:40.180Z"}
+{"end":{"x":6,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":2,"y":3},"timestamp":"2025-05-09T14:09:25.069Z"}
+{"level":"info","message":"Path found successfully","path":[[2,3],[3,3],[3,4],[3,5],[4,5],[5,5],[6,5],[6,6],[6,7]],"timestamp":"2025-05-09T14:09:25.072Z"}
+{"end":{"x":6,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":2,"y":3},"timestamp":"2025-05-09T14:10:08.941Z"}
+{"level":"info","message":"Path found successfully","path":[[2,3],[3,3],[3,4],[3,5],[4,5],[5,5],[6,5],[6,6],[6,7]],"timestamp":"2025-05-09T14:10:08.942Z"}
+{"end":{"x":2,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":2,"y":3},"timestamp":"2025-05-09T14:10:43.721Z"}
+{"level":"info","message":"Path found successfully","path":[[2,3]],"timestamp":"2025-05-09T14:10:43.723Z"}
+{"end":{"x":2,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":2,"y":3},"timestamp":"2025-05-09T14:10:45.758Z"}
+{"level":"info","message":"Path found successfully","path":[[2,3]],"timestamp":"2025-05-09T14:10:45.758Z"}
+{"end":{"x":2,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":2,"y":3},"timestamp":"2025-05-09T14:10:59.154Z"}
+{"level":"info","message":"Path found successfully","path":[[2,3]],"timestamp":"2025-05-09T14:10:59.155Z"}
+{"end":{"x":2,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":2,"y":3},"timestamp":"2025-05-09T14:11:00.290Z"}
+{"level":"info","message":"Path found successfully","path":[[2,3]],"timestamp":"2025-05-09T14:11:00.291Z"}
+{"end":{"x":2,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":2,"y":3},"timestamp":"2025-05-09T14:11:16.987Z"}
+{"level":"info","message":"Path found successfully","path":[[2,3]],"timestamp":"2025-05-09T14:11:16.989Z"}
+{"end":{"x":6,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":2,"y":3},"timestamp":"2025-05-09T14:11:20.759Z"}
+{"level":"info","message":"Path found successfully","path":[[2,3],[3,3],[3,4],[3,5],[4,5],[5,5],[5,4],[6,4],[6,3]],"timestamp":"2025-05-09T14:11:20.760Z"}
+{"end":{"x":6,"y":3},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-09T14:11:43.751Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[6,2],[6,3]],"timestamp":"2025-05-09T14:11:43.752Z"}
+{"end":{"x":4,"y":5},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-09T14:11:47.788Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[3,1],[3,2],[3,3],[3,4],[3,5],[4,5]],"timestamp":"2025-05-09T14:11:47.790Z"}
+{"end":{"x":4,"y":5},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-09T14:12:32.628Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[3,1],[3,2],[3,3],[3,4],[3,5],[4,5]],"timestamp":"2025-05-09T14:12:32.630Z"}
+{"end":{"x":6,"y":7},"level":"info","message":"Received pathfinding request","start":{"x":1,"y":0},"timestamp":"2025-05-09T14:12:38.059Z"}
+{"level":"info","message":"Path found successfully","path":[[1,0],[1,1],[2,1],[3,1],[4,1],[5,1],[5,2],[5,3],[5,4],[5,5],[6,5],[6,6],[6,7]],"timestamp":"2025-05-09T14:12:38.061Z"}
