@@ -30,15 +30,18 @@ app.use(cors());
 app.use(express.json());
 
 // Grid configuration
-const GRID_SIZE = 10;
-const grid = Array(GRID_SIZE).fill().map(() => Array(GRID_SIZE).fill(0));
+const GRID_WIDTH = 18;
+const GRID_HEIGHT = 23;
+const grid = Array(GRID_HEIGHT).fill().map(() => Array(GRID_WIDTH).fill(0));
 
 // Set walls
-for (let i = 0; i < GRID_SIZE; i++) {
+for (let i = 0; i < GRID_WIDTH; i++) {
   grid[0][i] = 1; // Top wall
-  grid[GRID_SIZE-1][i] = 1; // Bottom wall
+  grid[GRID_HEIGHT - 1][i] = 1; // Bottom wall
+}
+for (let i = 0; i < GRID_HEIGHT; i++) {
   grid[i][0] = 1; // Left wall
-  grid[i][GRID_SIZE-1] = 1; // Right wall
+  grid[i][GRID_WIDTH - 1] = 1; // Right wall
 }
 
 // Set entrance
@@ -88,8 +91,8 @@ app.post('/api/navigation/find-path', (req, res) => {
     }
 
     // Check if start and end are within bounds
-    if (start.x < 0 || start.x >= GRID_SIZE || start.y < 0 || start.y >= GRID_SIZE ||
-        end.x < 0 || end.x >= GRID_SIZE || end.y < 0 || end.y >= GRID_SIZE) {
+    if (start.x < 0 || start.x >= GRID_WIDTH || start.y < 0 || start.y >= GRID_HEIGHT ||
+        end.x < 0 || end.x >= GRID_WIDTH || end.y < 0 || end.y >= GRID_HEIGHT) {
       logger.error('Coordinates out of bounds', { start, end });
       return res.status(400).json({ error: 'Coordinates out of bounds' });
     }
